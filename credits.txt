@@ -1,0 +1,5 @@
+Age data:
+https://tableau.minneapolismn.gov/views/MinneapolisNeighborhoodDownloadData/Neighborhood?%3Aembed=y&%3Aiid=7&%3AisGuestRedirectFromVizportal=y
+
+Neighborhood GeoJSON:
+https://opendata.minneapolismn.gov/datasets/cityoflakes::minneapolis-neighborhoods/about
